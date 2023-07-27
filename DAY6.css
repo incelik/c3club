@@ -1,0 +1,11 @@
+div{ 
+
+
+.container{
+display: flex;
+flex-direction: row-reverse;
+}
+@media screen {(max-width: 768px)
+    }
+    body{ background-color: aqua;}
+}
